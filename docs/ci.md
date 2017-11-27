@@ -23,3 +23,4 @@
 - Make sure issues are tracked with the corresponding code repository
 - Make sure epic issues are tracked at the service repository level
 - Understand [github's issue management](https://help.github.com/articles/closing-issues-via-commit-messages/) as part of the development workflow 
+- Open PR as soon as you have made first commit & push to your feature branch
